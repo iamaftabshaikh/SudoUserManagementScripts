@@ -51,7 +51,7 @@ Here are the detailed steps to run each script:
 
 ## Author
 
-- [Aftab Shaikh](https://github.com/your_username)
+- [Aftab Shaikh](https://github.com/iamaftabshaikh)
 
 ## License
 
