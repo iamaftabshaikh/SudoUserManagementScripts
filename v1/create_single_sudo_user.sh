@@ -1,14 +1,13 @@
 #!/bin/bash
 
 # --------------------------------------
-# Script to create new sudo users
+# Script to create new sudo user
 #
 # Author: Aftab Shaikh
 # Date: 07-Aug-2023
 # Version: v1.0
 # 
-# This script creates new users on the local system
-# You will be prompted for the usernames
+# This script creates new user on the local system
 # --------------------------------------
 
 

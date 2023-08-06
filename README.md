@@ -71,7 +71,7 @@ Here are the detailed steps to run each script, organized by version:
 
 ## Author
 
-- [Your Name](https://github.com/iamaftabshaikh)
+- [Aftab Shaikh](https://github.com/iamaftabshaikh)
 
 ## License
 
