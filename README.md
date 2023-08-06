@@ -67,7 +67,7 @@ Here are the detailed steps to run each script, organized by version:
 
 #### Version 2
 
-[Replace with usage instructions for version 2 scripts here...]
+[Coming Soon...]
 
 ## Author
 
